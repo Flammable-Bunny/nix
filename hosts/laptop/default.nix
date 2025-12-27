@@ -13,7 +13,7 @@
    # Laptop Specific Apps
   environment.systemPackages = with pkgs; [
     slack
-  ];
+];
 
 
 

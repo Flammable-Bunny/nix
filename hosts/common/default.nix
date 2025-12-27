@@ -85,6 +85,7 @@
     foot
     fastfetch
     starship
+    cava
     eza
     fzf
 
